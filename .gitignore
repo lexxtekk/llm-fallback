@@ -9,5 +9,6 @@ venv/
 # macOS
 .DS_Store
 
+
 # Kiro IDE settings
 .kiro/
